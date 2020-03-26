@@ -9,7 +9,7 @@ FakePing requires a Linux system
 Clone the repository from GitHub
 
 ```sh
-$ git clone "https://github.com/EnzoDelahaye/FakPing"
+$ git clone "https://github.com/EnzoDelahaye/FakePing"
 $ cd FakePing
 ```
 
